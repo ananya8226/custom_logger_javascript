@@ -1,4 +1,3 @@
-// const customLogger = require('appventurez_js_custom_logger');
 const customLogger = require('./main');
 const  PROJECT_NAME  = "custom_logger_javascript";
 
